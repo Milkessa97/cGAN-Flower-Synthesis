@@ -58,10 +58,6 @@ Moving from **Seed A** to **Seed B** within the same class allows us to see how 
 
 `[zA * (1 - α) + zB * α]`
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Your+Morphing+Reel+Output+Here" width="800" />
-</div>
-
 ---
 
 ## ⚠️ Researcher's Log: Failure Insights
