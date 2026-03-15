@@ -15,11 +15,9 @@ This project implements a **Conditional Generative Adversarial Network (cGAN)**.
 ---
 
 ## 📽️ Evolution Gallery (Animation)
-> **[Instruction for User]**: *To truly make your README "pop," take the `evolution_snapshots` you saved, turn them into a `.gif`, and replace the link below!*
-
 <div align="center">
-  <img src="https://media.giphy.com/media/your-cool-gan-gif-here/giphy.gif" width="600" alt="GAN Training Evolution Animation" />
-  <p><i>Evolution from Epoch 1 (Noise) to Epoch 200 (Flowers)</i></p>
+  <img src="[https:[https://github.com/Milkessa97/cGAN-Flower-Synthesis/blob/main/Transition%20between%200%20epoch%20and%20199%20epoch.png]" width="600" alt="GAN Training Evolution Animation" />
+  <p><i>Evolution from Epoch 1 (Noise) to Epoch 199 (Flowers)</i></p>
 </div>
 
 ---
