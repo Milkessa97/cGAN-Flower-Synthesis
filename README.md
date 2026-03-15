@@ -37,9 +37,9 @@ On **Day 4**, I conducted a deep dive into the architecture's efficiency.
     <td>Stable convergence achieved.</td>
   </tr>
   <tr>
-    <td><b>Memory Footprint</b></td>
-    <td>~XX.X MB</td>
-    <td>Convolutional layers used 5x less RAM than FC layers.</td>
+    <td><b>Peak Memory Usage</b></td>
+    <td>~ 414.48 MB</td>
+    <td>Efficient convolutional architecture during training.</td>
   </tr>
   <tr>
     <td><b>Optimization</b></td>
